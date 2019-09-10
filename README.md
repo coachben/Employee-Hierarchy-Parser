@@ -6,7 +6,7 @@ This class has a constructor that takes a CSV string that contains all the emplo
 the manager they report to, and the employee’s salary.
 
 # Params
-Input type: <String> Employee Data
+Input type: String  - Employee Data
   
 # Results
-Return type: <Long> Salary Budget
+Return type: Long -  Salary Budget
